@@ -1,0 +1,11 @@
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\bin\Debug\netcoreapp1.0\Examples.deps.json
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\bin\Debug\netcoreapp1.0\Examples.runtimeconfig.json
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\bin\Debug\netcoreapp1.0\Examples.runtimeconfig.dev.json
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\bin\Debug\netcoreapp1.0\Examples.dll
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\bin\Debug\netcoreapp1.0\Examples.pdb
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\bin\Debug\netcoreapp1.0\Mono.Data.OracleClientCore.dll
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\bin\Debug\netcoreapp1.0\Mono.Data.OracleClientCore.pdb
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\obj\Debug\netcoreapp1.0\Examples.csprojResolveAssemblyReference.cache
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\obj\Debug\netcoreapp1.0\Examples.AssemblyInfo.cs
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\obj\Debug\netcoreapp1.0\Examples.dll
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Examples\obj\Debug\netcoreapp1.0\Examples.pdb

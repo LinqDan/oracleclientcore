@@ -1,15 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CD63809A-A0C7-463E-AF75-597FF82848EC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FCA24C79-6BF8-4200-A430-DC567632513F}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mono.Data.OracleClientCore", "src\Mono.Data.OracleClientCore\Mono.Data.OracleClientCore.csproj", "{773241BC-BB19-4417-A0DF-F2B4F2C33783}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Mono.Data.OracleClientCore", "src\Mono.Data.OracleClientCore\Mono.Data.OracleClientCore.xproj", "{773241BC-BB19-4417-A0DF-F2B4F2C33783}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examples", "src\Examples\Examples.csproj", "{05868586-AFDE-43F1-8CE1-BA9DB9C391AF}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Examples", "src\Examples\Examples.xproj", "{05868586-AFDE-43F1-8CE1-BA9DB9C391AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

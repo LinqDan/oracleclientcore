@@ -1,0 +1,6 @@
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Mono.Data.OracleClientCore\bin\Debug\netstandard1.6\Mono.Data.OracleClientCore.deps.json
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Mono.Data.OracleClientCore\bin\Debug\netstandard1.6\Mono.Data.OracleClientCore.dll
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Mono.Data.OracleClientCore\bin\Debug\netstandard1.6\Mono.Data.OracleClientCore.pdb
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Mono.Data.OracleClientCore\obj\Debug\netstandard1.6\Mono.Data.OracleClientCore.AssemblyInfo.cs
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Mono.Data.OracleClientCore\obj\Debug\netstandard1.6\Mono.Data.OracleClientCore.dll
+C:\Users\danmorg\Source\GitHubRepos\oracleclientcore\src\Mono.Data.OracleClientCore\obj\Debug\netstandard1.6\Mono.Data.OracleClientCore.pdb
