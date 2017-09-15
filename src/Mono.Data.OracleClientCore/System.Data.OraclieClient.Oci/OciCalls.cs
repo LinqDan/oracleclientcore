@@ -1267,6 +1267,11 @@ namespace System.Data.OracleClient.Oci
 		//http://download-uk.oracle.com/docs/cd/B14117_01/appdev.101/b10779/oci05bnd.htm#423147
 		internal static IntPtr AllocateClear (int cb)
 		{
+
+#if OCI_MACOS
+           IsUnix = true;
+#endif			
+			
 			if (IsUnix) {
 				return calloc (1, cb);
 			} else {
