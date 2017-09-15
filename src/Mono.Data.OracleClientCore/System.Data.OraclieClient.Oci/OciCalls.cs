@@ -34,7 +34,7 @@ namespace System.Data.OracleClient.Oci
 #elif OCI_LINUX
         const string OCI_DLL = "libclntsh.so";
 #elif OCI_MACOS
-        const string OCI_DLL = "libclntsh.dynlib";  // no sure what is on Mac
+        const string OCI_DLL = "libclntsh.dylib";
 #else 
 #error platform not set in OciCalls
 #endif
