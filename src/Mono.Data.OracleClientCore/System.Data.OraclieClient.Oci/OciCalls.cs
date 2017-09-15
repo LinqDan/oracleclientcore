@@ -34,7 +34,7 @@ namespace System.Data.OracleClient.Oci
 #elif OCI_LINUX
         const string OCI_DLL = "libclntsh.so";
 #elif OCI_MACOS
-        const string OCI_DLL = "libclntsh.dynlib";  // no sure what is on Mac
+        const string OCI_DLL = "libclntsh.dylib";
 #else 
 #error platform not set in OciCalls
 #endif
@@ -1267,6 +1267,11 @@ namespace System.Data.OracleClient.Oci
 		//http://download-uk.oracle.com/docs/cd/B14117_01/appdev.101/b10779/oci05bnd.htm#423147
 		internal static IntPtr AllocateClear (int cb)
 		{
+
+#if OCI_MACOS
+           IsUnix = true;
+#endif			
+			
 			if (IsUnix) {
 				return calloc (1, cb);
 			} else {
