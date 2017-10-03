@@ -13,6 +13,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Mono.Data.OracleClientCore\Mono.Data.OracleClientCore.csproj" />
   </ItemGroup>
 
