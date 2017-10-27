@@ -537,7 +537,7 @@ namespace System.Data.OracleClient.Oci
 				status = OciCalls.OCICharSetToUnicode (env, ret, buffer, out rsize);
 				OciErrorHandle.ThrowExceptionIfError (ErrorHandle, status);
 
-				return ret.ToString ();
+				return ret.ToString (0, rsize);
 			case OciDataType.LongVarChar:
 			case OciDataType.Long:
 				buffer = new byte [LongVarCharMaxValue];
