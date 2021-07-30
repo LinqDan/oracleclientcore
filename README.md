@@ -1,5 +1,11 @@
 # oracleclientcore  
-  
+
+This is project is abandoned.   Do not use.
+Please see Oracle's fully managed client for .Net Core that works on windows, Linux, and Mac.
+https://www.nuget.org/packages/Oracle.ManagedDataAccess.Core/
+
+---------------------------------
+
 unofficial oracle client for .net core.  based on mono's oracle client  
   
 Update on 04/23/2017 - converted solution/project to Visual Studio 2017.  added compiler defines for a platform to the oci library.  
